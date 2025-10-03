@@ -28,7 +28,7 @@ public final class Main {
             """;
 
     public static void main(String[] args) throws IOException {
-        println("\n🔮🐉⚔️ AI INFINITE ADVENTURES! ⚔️🐉🔮\n\n        Starting the adventure…");
+        println("\n🔮🐉⚔️ AI ADVENTURES! ⚔️🐉🔮\n\n    Starting the adventure…");
 
 
     }
